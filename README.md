@@ -1,10 +1,9 @@
-# Analisis-Trafico-Inseguro-Telnet-Wireshark
+Caso 001 – Análisis de autenticación Telnet mediante inspección de tráfico de red.
 Análisis de tráfico de red con Wireshark sobre el protocolo Telnet en un entorno controlado. Se documenta la captura y el análisis de una sesión de autenticación, demostrando la transmisión de credenciales sin cifrado y los riesgos asociados. Incluye evidencia, metodología, observaciones técnicas y conclusiones.
 
 
-# Caso 001 – Análisis de autenticación Telnet mediante inspección de tráfico de red
 
-## Resumen Ejecutivo
+## Descripción
 
 Se realizó un análisis de tráfico de red utilizando Wireshark con el objetivo de evaluar el comportamiento del protocolo Telnet durante un proceso de autenticación remota. El laboratorio se llevó a cabo en un entorno controlado utilizando un cliente Windows y un switch Cisco IOS configurado para aceptar conexiones Telnet.
 
