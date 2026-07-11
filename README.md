@@ -216,13 +216,6 @@ La utilización de Wireshark permitió reconstruir la sesión completa y verific
 
 ---
 
-# Referencias
-
-* RFC 854 – Telnet Protocol Specification.
-* Documentación oficial de Wireshark.
-* Cisco IOS Security Configuration Guide.
-* NIST SP 800-41 Rev. 1 – Guidelines on Firewalls and Firewall Policy.
-
 
 
 
